@@ -118,4 +118,12 @@ Document-Intelligence-Agent/
 ├── requirements.txt
 └── README.md
 
+## 🔒 Code Policy
+Main application code and notebooks are intentionally excluded.
 
+This repository contains:
+- Project structure
+- Documentation
+- Templates
+
+Contact the author for access to the full implementation.
